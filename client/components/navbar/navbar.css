@@ -1,0 +1,15 @@
+.nav ul{
+  list-style: none;
+}
+.nav li{
+  display: inline-block;
+  width: 20%;
+}
+
+a{
+  color: rgb(104, 253, 254);
+}
+
+a:hover{
+  color: rgb(24, 154, 223);
+}
